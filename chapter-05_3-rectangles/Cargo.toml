@@ -1,3 +1,4 @@
+["edition2021"]
 [package]
 name = "chapter-05_3-rectangles"
 version = "0.1.0"
